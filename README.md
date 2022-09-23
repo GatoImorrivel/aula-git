@@ -1,6 +1,6 @@
 # Introdução
 
-# Conflito aqui (main)
+# Conflito aqui (criando-conflito)
 
 ## O que é o git?
 
