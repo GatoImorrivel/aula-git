@@ -1,6 +1,6 @@
 # Introdução
 
-# Mudança aqui, bizarro
+# Conflito aqui (criando-conflito)
 
 ## O que é o git?
 
